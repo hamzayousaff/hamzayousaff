@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name] 
 
-<!--
-**hamzayousaff/hamzayousaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** | 💻 **Aspiring Software Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 📚 Currently pursuing a degree in **Computer Science** at [Your University].
+- 💡 Passionate about **coding**, **problem-solving**, and exploring **new technologies**.
+- 🌱 Currently learning **[Current Technologies/Concepts you're focusing on]**.
+- 🤖 Interested in **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
+- 🚀 Looking for **internship opportunities** to apply my skills and gain real-world experience.
+
+### Skills
+
+- **Programming Languages**: Python, Java, C++, JavaScript
+- **Web Development**: HTML, CSS, React.js
+- **Database**: MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
+- **Other Tools**: VS Code, Docker
+
+### Connect with Me
+
+- 📫 Email: muhammadhamzayousaf578@gmail.com
+
+---
+
+🌟 **"The only way to do great work is to love what you do." - Steve Jobs**
